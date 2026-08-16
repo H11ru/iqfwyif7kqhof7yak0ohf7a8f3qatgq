@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "nohighshadows",
+  "version": "1.0.0",
+  "name": "No High Shadows",
+  "loaderVersion": ">=0.14.0",
+  "environment": "server",
+  "mixins": [ "nohighshadows.mixins.json" ]
+}
